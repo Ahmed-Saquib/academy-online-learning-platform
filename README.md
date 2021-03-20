@@ -1,0 +1,2 @@
+# academy-online-learning-platform
+An online learning platform this includes lecture videos, documents, discussion groups for each enrolled courses, announcement boards, assignments, course enrollment from varieties of courses created by faculties for the students. Students will be able to access their enrolled courses and its lecture videos, also all faculties will be able to post their course materials. This platform will try to give as close to a live-class experience as possible. 
